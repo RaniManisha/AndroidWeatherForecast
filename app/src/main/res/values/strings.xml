@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather forecast</string>
+    <string name="button_done">Done</string>
+    <string name="edt_search_city">Search weather by city</string>
+    <string name="please_enter_valid_city_name">Please enter valid city name</string>
+    <string name="city_not_found">City not found</string>
+    <string name="please_put_your_weather_aPI_key_in_connectionManager">Please put your weather API key in ConnectionManager.java</string>
+
+</resources>
