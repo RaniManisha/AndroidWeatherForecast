@@ -23,3 +23,16 @@ More features to  be included in future :
 	•	Implement nice error popups
 	•	Add more comments
 	•	tons more...
+
+
+Screenshot :
+
+ ![image](https://github.com/RaniManisha/AndroidWeatherForecast/blob/master/app/docs/Weather_forecast_data.png)
+
+
+
+![image](https://github.com/RaniManisha/AndroidWeatherForecast/blob/master/app/docs/City_name_invalid.png)
+
+
+
+ ![image](https://github.com/RaniManisha/AndroidWeatherForecast/blob/master/app/docs/When_city_name_is_empty.png)
