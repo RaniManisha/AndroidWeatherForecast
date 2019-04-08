@@ -25,7 +25,7 @@ More features to  be included in future :
 	•	tons more...
 
 
-Screenshot :
+Screenshots :
 
  ![image](https://github.com/RaniManisha/AndroidWeatherForecast/blob/master/app/docs/Weather_forecast_data.png)
 
